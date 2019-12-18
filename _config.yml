@@ -16,11 +16,9 @@
 title: Michael Diaz - Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Michael Diaz. 2022 BCom, Management Information System. Alberta School of Business
 twitter_username: username
-github_username: username
+github_username: diaz-michael
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Michael Diaz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Currently a 2nd year BCom student at the Alberta School of Business, majoring in Management Information Systems"
+  bio    : "Currently a 2nd year BCom student at the Alberta School of Business, majoring in management information systems"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

@@ -1,5 +1,5 @@
 ---
-title: "Creating an Animated ShotMap with NHL's REST API"
+title: "Creating an Animated ShotMap with NHL's Stats API"
 excerpt_separator: "<!--more-->"
 categories:
   - Data Visualizations
@@ -12,7 +12,7 @@ tags:
   - Animation
 ---
 
-Using R and NHL's RESTful API, I created an animated ShotMap of McDavid's 409 recorded shots between his debut game and the end of the 2018 season.
+Using R and NHL's stats API, I created an animated ShotMap of McDavid's 409 recorded shots between his debut game and the end of the 2018 season.
 
 
 <!--more-->
