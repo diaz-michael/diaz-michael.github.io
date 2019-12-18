@@ -16,6 +16,7 @@ Using R and NHL's stats API, I created an animated ShotMap of McDavid's 409 reco
 
 
 <!--more-->
+[Github repo](https://github.com/diaz-michael/NHL_ShotMaps)
 
 ## Getting NHL Play by Play data from the API
 
@@ -31,7 +32,6 @@ documentation in progress
 
 
 
-[McDavid_ShotMap]: /assets/images/McDavidShotMap.gif
-Background rink diagram adapted from [Completefailure](https://en.wikipedia.org/wiki/User:Completefailure), released BY-SA 3.0.
+[McDavid_ShotMap]: /assets/images/ShotMap_McDavid.gif
 
 API copyright notice: NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2019. All Rights Reserved.
