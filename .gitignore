@@ -1,4 +1,7 @@
-_site
+_site/*
+!_site/assets
+_site/assets/*
+!_site/assets/main.css
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
