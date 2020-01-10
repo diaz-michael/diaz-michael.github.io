@@ -17,6 +17,6 @@ Goal: Start learning how to use Tableau.
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1578635374111');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-
+[Tableau Link](https://public.tableau.com/views/Book2_15786339036200/GoalsScorerTypeofShot?:display_count=y&publish=yes&:origin=viz_share_link)
 Issues/todo:
 - Shots are assumed to have occurred in the attacking zone when they can occur anywhere on the ice.
