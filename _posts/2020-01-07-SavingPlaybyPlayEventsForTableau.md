@@ -115,8 +115,5 @@ The data is appended to the .csv export file after each game loop.
 ```
   write.table(event_data,file = "19.csv", append = TRUE, sep = ",", quote = FALSE,row.names = FALSE, col.names = FALSE)
 ```
-## Visualizations with Tableau
-... To be added
-
 
 API copyright notice: NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams.
