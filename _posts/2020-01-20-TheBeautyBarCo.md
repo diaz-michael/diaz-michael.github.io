@@ -15,6 +15,8 @@ tags:
 
 Working with the business owner to design and implement a website for her beauty salon business.
 
+[TheBeautyBarCo.ca](http://thebeautybarco.ca)
+
 
 <!--more-->
 
