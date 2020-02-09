@@ -17,26 +17,23 @@ Working with the business owner to design and implement a website for her beauty
 
 [TheBeautyBarCo.ca](http://thebeautybarco.ca)
 
+![alt text][BeautyBarCoGif]
+
+
+
+[BeautyBarCoGif]: /assets/images/BeautyBarCo.gif
+
 
 <!--more-->
 
 ## WebPages
 Wordpress for all pages
 
-### Home page with contact form and testimonials
-* Contact Form 7 Plugin
-
-### Simple to use blog
-* WPBakery Page Builder
-
-### Services page with comparison sliders
-* Ave Core Plugin
-
-### Team page with employee bios
-* Ave Core Plugin
-
-### Implementation with booking service
-* Setmore Plus Plugin
+* Home page with contact form and testimonials
+* Simple to use blog
+* Services page with comparison sliders
+* Team page with employee bios
+* Implementation with booking service
 
 ## Web and Email Hosting
 * Shared hosting account
