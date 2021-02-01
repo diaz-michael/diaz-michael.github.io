@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Michael Diaz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Currently a 3rd year BCom (co-op) student at the Alberta School of Business, majoring in management information systems."
+  bio    : "Currently a 4th year BCom (co-op) student at the Alberta School of Business, majoring in Management Information Systems with an Operations Management minor."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
