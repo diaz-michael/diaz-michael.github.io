@@ -16,10 +16,10 @@
 title: Michael Diaz - Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Michael Diaz. 2022 BCom, Management Information System. Alberta School of Business
+  Michael Diaz. Edmonton based Business Analyst
 twitter_username: username
 github_username: diaz-michael
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Michael Diaz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Currently a 4th year BCom (co-op) student at the Alberta School of Business, majoring in Management Information Systems with an Operations Management minor."
+  bio    : "A business analyst in Edmonton, Alberta. Graduated from the Alberta School of Business, majoring in Business Technology Management with an Operations Management minor."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
