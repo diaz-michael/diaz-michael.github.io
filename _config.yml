@@ -58,8 +58,9 @@ plugins:
 author:
   name   : "Michael Diaz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A business analyst in Edmonton, Alberta. Graduated from the Alberta School of Business, majoring in Business Technology Management with an Operations Management minor."
-  links:
+  bio    : "A business analyst in Edmonton, Alberta. Graduated from the Alberta School of Business, majoring in Business Technology Management with an Operations Management minor.
+  This site served as my work-in-progress portfolio while in university."
+  links:a
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/diaz-michael"
